@@ -1,6 +1,6 @@
 {
-  "name": "Stencil Testnet",
-  "id": "stencil_testnet",
+  "name": "Emris Testnet",
+  "id": "emris_testnet",
   "chainType": "Live",
   "bootNodes": [
   ],
@@ -10,7 +10,7 @@
       0
     ]
   ],
-  "protocolId": "stencil_testnet",
+  "protocolId": "emris_testnet",
   "properties": null,
   "consensusEngine": null,
   "lightSyncState": null,

@@ -1,11 +1,11 @@
 [package]
-authors = ["{{authors}}"]
+authors = ["CipherProxy"]
 description = 'FRAME pallet template'
 edition = '2018'
-homepage = 'https://substrate.dev'
+homepage = 'https://cipherproxy.com'
 license = 'Unlicense'
 name = 'pallet-template'
-repository = 'https://github.com/kaichaosun/substrate-stencil'
+repository = 'https://github.com/CipherProxy/pos-substrate'
 version = '2.0.0'
 
 [package.metadata.docs.rs]

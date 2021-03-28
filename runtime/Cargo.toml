@@ -1,10 +1,10 @@
 [package]
 name = "node-template-runtime"
-authors = ["{{authors}}"]
+authors = ["CipherProxy"]
 edition = '2018'
-homepage = 'https://substrate.dev'
+homepage = 'https://cipherproxy.com'
 license = 'Unlicense'
-repository = 'https://github.com/kaichaosun/substrate-stencil'
+repository = 'https://github.com/CipherProxy/pos-substrate'
 version = '2.0.0'
 
 [package.metadata.docs.rs]

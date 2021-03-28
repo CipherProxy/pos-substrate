@@ -1,6 +1,6 @@
 {
-  "name": "Stencil Testnet",
-  "id": "stencil_testnet",
+  "name": "Emris Testnet",
+  "id": "emris_testnet",
   "chainType": "Live",
   "bootNodes": [
     "/ip4/127.0.0.1/tcp/30333/p2p/12D3KooWGqyQzrahnbLFk6n2WYU3VKxM7kNnwZEDARkGZyvSK7Dk"
@@ -11,7 +11,7 @@
       0
     ]
   ],
-  "protocolId": "stencil_testnet",
+  "protocolId": "emris_testnet",
   "properties": null,
   "consensusEngine": null,
   "lightSyncState": null,
